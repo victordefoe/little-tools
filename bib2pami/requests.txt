@@ -1,0 +1,7 @@
+
+
+
+clipboard
+pywin32
+tkinter
+base64
