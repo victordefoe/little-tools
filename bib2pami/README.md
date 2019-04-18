@@ -6,8 +6,8 @@ python bib2pami.py
 
 ## packed distribution:
 
- windows: in directory dist/bib2pami.exe   executable file: 8.5M
+ windows: in directory dist/bib2pami.exe  ( executable file: 8.5M )
  
  linux: 
- 
-    baiduyun 链接：https://pan.baidu.com/s/1cRkyJYjOh2zBpo-dGWdfqw 密码：qzbr  	executable file: 87M
+
+    baiduyun 链接：https://pan.baidu.com/s/1cRkyJYjOh2zBpo-dGWdfqw 密码：qzbr  	(executable file: 85M)
