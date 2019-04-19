@@ -9,6 +9,7 @@ download raw files : bib2pami_linux.py requirements.txt
 run:
 
 >pip install -r requirements.txt
+
 >python bib2pami_linux.py
 
 * b)
