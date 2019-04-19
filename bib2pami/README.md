@@ -3,7 +3,7 @@
 ## usage
 
 ### there are two ways for Linux users:
-* 1)(suggested)
+* a)(suggested)
 download raw files : bib2pami_linux.py requirements.txt
 
 run:
@@ -11,7 +11,7 @@ run:
 pip install -r requirements.txt
 python bib2pami_linux.py
 
-* 2)
+* b)
 use the packed executable file
 
 ### for windows users:
