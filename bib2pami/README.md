@@ -1,12 +1,26 @@
-# Refereences Tranfer adding
+# References Transformer: bib2pami
 
 ## usage
 
-python bib2pami.py
+### there are two ways for Linux users:
+* 1)(suggested)
+download raw files : bib2pami_linux.py requirements.txt
+
+run:
+
+pip install -r requirements.txt
+python bib2pami_linux.py
+
+* 2)
+use the packed executable file
+
+### for windows users:
+suggest to use packed executable file.
+
 
 ## packed distribution:
 
- windows: in directory dist/bib2pami.exe  ( executable file: 8.5M )
+ windows: in directory dist/bib2pami.exe  (executable file: 8.5M )
  
  linux: 
 
