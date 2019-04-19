@@ -8,8 +8,8 @@ download raw files : bib2pami_linux.py requirements.txt
 
 run:
 
-pip install -r requirements.txt
-python bib2pami_linux.py
+>pip install -r requirements.txt
+>python bib2pami_linux.py
 
 * b)
 use the packed executable file
