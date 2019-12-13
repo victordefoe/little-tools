@@ -48,8 +48,8 @@ def white2alpha(img_file, save=True):
         for j in range(height):
             if img[i,j][0] > 100:
                 img[i,j][3] = 0
-            # else:  # make the dark theme into bright
-            #     img[i,j][:3] = [255,255,255]
+            else:  # make the dark theme into bright
+                img[i,j][:3] = [255,255,255]
 
     img_BGRA = img
     if save:

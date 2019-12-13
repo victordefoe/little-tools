@@ -13,4 +13,4 @@ from IMFlibs import white2alpha
 
 
 
-white2alpha(r'D:\destbin\社团\logo_1.png')
+white2alpha(r'D:\destbin\社团\logo4.png')
