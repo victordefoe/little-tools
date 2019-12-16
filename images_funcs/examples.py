@@ -9,8 +9,11 @@
 
 '''
 
-from IMFlibs import white2alpha
+from IMFlibs import white2alpha, alpha2white, rotate
 
 
 
-white2alpha(r'D:\destbin\社团\logo4.png')
+# white2alpha(r'D:\destbin\社团\logo4.png')
+alpha2white(r'D:\destbin\社团\植物.png')
+
+rotate(r'D:\destbin\社团\植物_a.png')
